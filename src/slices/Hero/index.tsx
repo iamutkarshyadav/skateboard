@@ -1,3 +1,5 @@
+"use client";
+
 import { asImageSrc, Content } from "@prismicio/client";
 import {
   PrismicRichText,
